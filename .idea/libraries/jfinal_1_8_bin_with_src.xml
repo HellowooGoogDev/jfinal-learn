@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jfinal-1.8-bin-with-src">
+    <CLASSES>
+      <root url="jar://E:/apache/dependency/jfinal-1.8-lib/jfinal-1.8-bin-with-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/apache/dependency/jfinal-1.8-lib/jfinal-1.8-bin-with-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
